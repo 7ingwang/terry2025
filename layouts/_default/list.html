@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h2>{{ .Title }}</h2>
+  <div class="row g-4">
+    {{ range .Pages }}
+      <div class="col-sm-6 col-md-6 col-lg-6 py-2">
+        <div class="card">
+          {{ with .Resources.GetMatch .Params.featured_image }}
+            <div style="background-image: url({{ .RelPermalink }})" class="img-fluid card-img-top"></div>
+          {{ end }}
+          <div class="card-body p-4">
+            <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

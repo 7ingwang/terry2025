@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <div class="row g-4">
+    {{ with .Site.Data.headline }}
+      {{ if .enable }}
+        <div class="headline g-0 p-3">{{ .title | safeHTML }}</div>
+      {{ end }}
+    {{ end }}
+    {{ range (.Paginator 6).Pages }}
+      <div class="col-sm-6 col-md-6 col-lg-6 py-2">
+        <div class="card">
+          {{ with .Resources.GetMatch .Params.featured_image }}
+            <div style="background-image: url('{{ .RelPermalink }}')" class="img-fluid card-img-top"></div>
+          {{ end }}
+          <div class="card-body p-4">
+            <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+            <div class="tags py-2">
+              {{ range .Params.tags }}
+                <a class="btn btn-outline-secondary tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    <div class="col-12 p-4">
+      {{ partial "paginator/paginator.html" . }}
+    </div>
+  </div>
+{{ end }}

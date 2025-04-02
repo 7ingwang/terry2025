@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI on Terry.Wang</title>
+    <link>https://example.org/tags/ui/</link>
+    <description>Recent content in UI on Terry.Wang</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 10 Aug 2020 16:00:00 -0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GLC官网</title>
+      <link>https://example.org/posts/glc/</link>
+      <pubDate>Mon, 10 Aug 2020 16:00:00 -0500</pubDate>
+      <guid>https://example.org/posts/glc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;home.png&#34; alt=&#34;GLC&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>钢铁水处理中心管网可视化监控大屏</title>
+      <link>https://example.org/posts/hh/</link>
+      <pubDate>Mon, 10 Aug 2020 16:00:00 -0500</pubDate>
+      <guid>https://example.org/posts/hh/</guid>
+      <description>&lt;h3 id=&#34;原型&#34;&gt;原型&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_draft.png&#34; alt=&#34;原型&#34;&gt;&#xA;&lt;img src=&#34;HH_1080p.png&#34; alt=&#34;原型&#34;&gt;&#xA;&lt;img src=&#34;HH_HD_home_wireframe.png&#34; alt=&#34;原型&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ui&#34;&gt;UI&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_HD_home.png&#34; alt=&#34;UI&#34;&gt;&#xA;&lt;img src=&#34;HH_HD_chart_compare.png&#34; alt=&#34;UI&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;配色&#34;&gt;配色&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_Colors.png&#34; alt=&#34;配色&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_HD_Icons.png&#34; alt=&#34;Icons&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eSiLKS丝路国际智库</title>
+      <link>https://example.org/posts/esilks/</link>
+      <pubDate>Thu, 10 Aug 2017 16:00:00 -0500</pubDate>
+      <guid>https://example.org/posts/esilks/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Home2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Members&amp;amp;Partners@2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Activities2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Activity@2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Publications-list2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;LeadingScholars2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;AboutUs2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Members&amp;amp;Partners@2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;articles2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Data2x.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;Splash.png&#34; alt=&#34;eSiLKS&#34;&gt;&#xA;&lt;img src=&#34;feedback.jpg&#34; alt=&#34;eSiLKS&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>极路由 HiWiFi App</title>
+      <link>https://example.org/posts/hiwifiapp/</link>
+      <pubDate>Wed, 05 Nov 2014 15:58:10 +0600</pubDate>
+      <guid>https://example.org/posts/hiwifiapp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;home.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;control_WiFi_channel.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;speed_test.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;control_plugins.png&#34; alt=&#34;HiWiFi App&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>极路由 HiWiFi OS</title>
+      <link>https://example.org/posts/hiwifi/</link>
+      <pubDate>Wed, 05 Jun 2013 15:58:10 +0600</pubDate>
+      <guid>https://example.org/posts/hiwifi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://terry.wang/demo/hiwifi/&#34;&gt;&lt;img src=&#34;HiWiFi.png&#34; alt=&#34;HiWiFi&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

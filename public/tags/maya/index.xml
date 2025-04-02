@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya on Terry.Wang</title>
+    <link>https://example.org/tags/maya/</link>
+    <description>Recent content in Maya on Terry.Wang</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 03 Oct 2024 15:58:10 +0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maya角色表演动画练习二</title>
+      <link>https://example.org/posts/mayaargusbig/</link>
+      <pubDate>Thu, 03 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>https://example.org/posts/mayaargusbig/</guid>
+      <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;MayaArgusBig.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Maya角色表演动画练习一</title>
+      <link>https://example.org/posts/mayadee/</link>
+      <pubDate>Thu, 05 Sep 2024 15:58:10 +0600</pubDate>
+      <guid>https://example.org/posts/mayadee/</guid>
+      <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;MayaDee.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>Maya练习</title>
+      <link>https://example.org/posts/terrymayaworks0/</link>
+      <pubDate>Wed, 05 Jun 2024 15:58:10 +0600</pubDate>
+      <guid>https://example.org/posts/terrymayaworks0/</guid>
+      <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;terrymayaworks0.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+  </channel>
+</rss>

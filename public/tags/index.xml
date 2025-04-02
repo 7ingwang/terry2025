@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terry.Wang</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Terry.Wang</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 Nov 2024 16:00:00 -0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender</title>
+      <link>https://example.org/tags/blender/</link>
+      <pubDate>Mon, 11 Nov 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/blender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Icons</title>
+      <link>https://example.org/tags/icons/</link>
+      <pubDate>Mon, 11 Nov 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/icons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/tags/sketch/</link>
+      <pubDate>Mon, 11 Nov 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/sketch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://example.org/tags/web/</link>
+      <pubDate>Mon, 11 Nov 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maya</title>
+      <link>https://example.org/tags/maya/</link>
+      <pubDate>Thu, 03 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>https://example.org/tags/maya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>动画</title>
+      <link>https://example.org/tags/%E5%8A%A8%E7%94%BB/</link>
+      <pubDate>Thu, 03 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>https://example.org/tags/%E5%8A%A8%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D</title>
+      <link>https://example.org/tags/3d/</link>
+      <pubDate>Thu, 10 Aug 2023 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discuz</title>
+      <link>https://example.org/tags/discuz/</link>
+      <pubDate>Sat, 08 Oct 2022 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/discuz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC</title>
+      <link>https://example.org/tags/pc/</link>
+      <pubDate>Sat, 08 Oct 2022 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Icon</title>
+      <link>https://example.org/tags/icon/</link>
+      <pubDate>Sun, 20 Feb 2022 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/icon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Principle</title>
+      <link>https://example.org/tags/principle/</link>
+      <pubDate>Mon, 10 Aug 2020 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/principle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UI</title>
+      <link>https://example.org/tags/ui/</link>
+      <pubDate>Mon, 10 Aug 2020 16:00:00 -0500</pubDate>
+      <guid>https://example.org/tags/ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Princriple</title>
+      <link>https://example.org/tags/princriple/</link>
+      <pubDate>Mon, 16 Sep 2019 15:58:10 +0600</pubDate>
+      <guid>https://example.org/tags/princriple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>表情</title>
+      <link>https://example.org/tags/%E8%A1%A8%E6%83%85/</link>
+      <pubDate>Mon, 16 Sep 2019 15:58:10 +0600</pubDate>
+      <guid>https://example.org/tags/%E8%A1%A8%E6%83%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>https://example.org/tags/app/</link>
+      <pubDate>Wed, 05 Nov 2014 15:58:10 +0600</pubDate>
+      <guid>https://example.org/tags/app/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

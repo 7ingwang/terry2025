@@ -1,0 +1,12 @@
+{{define "main"}}
+  <div class="container">
+    <div class="page404 p-4">
+        {{ with .Site.Data.page404 }}
+          {{ if .enable }}
+            <img src="{{ .icon }}" class="icon" alt="404">
+            <h1 class="headline">{{ .title | safeHTML }}</h1>
+          {{ end }}
+        {{ end }}
+    </div>
+  </div>
+{{ end }}
