@@ -1,7 +1,3 @@
-# Theme Name
+#Hugo theme
 
-## Features
-
-## Installation
-
-## Configuration
+themes/terry2025
