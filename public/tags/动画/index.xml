@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>动画 on Terry.Wang</title>
-    <link>https://example.org/tags/%E5%8A%A8%E7%94%BB/</link>
+    <link>http://localhost:1313/tags/%E5%8A%A8%E7%94%BB/</link>
     <description>Recent content in 动画 on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 03 Oct 2024 15:58:10 +0600</lastBuildDate>
-    <atom:link href="https://example.org/tags/%E5%8A%A8%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%8A%A8%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maya角色表演动画练习二</title>
-      <link>https://example.org/posts/mayaargusbig/</link>
+      <link>http://localhost:1313/posts/mayaargusbig/</link>
       <pubDate>Thu, 03 Oct 2024 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/mayaargusbig/</guid>
+      <guid>http://localhost:1313/posts/mayaargusbig/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;MayaArgusBig.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>Maya角色表演动画练习一</title>
-      <link>https://example.org/posts/mayadee/</link>
+      <link>http://localhost:1313/posts/mayadee/</link>
       <pubDate>Thu, 05 Sep 2024 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/mayadee/</guid>
+      <guid>http://localhost:1313/posts/mayadee/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;MayaDee.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>Maya练习</title>
-      <link>https://example.org/posts/terrymayaworks0/</link>
+      <link>http://localhost:1313/posts/terrymayaworks0/</link>
       <pubDate>Wed, 05 Jun 2024 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/terrymayaworks0/</guid>
+      <guid>http://localhost:1313/posts/terrymayaworks0/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;terrymayaworks0.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>蜗牛与黄鹂鸟</title>
-      <link>https://example.org/posts/thesnailandtheoriolebirds/</link>
+      <link>http://localhost:1313/posts/thesnailandtheoriolebirds/</link>
       <pubDate>Thu, 10 Aug 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/thesnailandtheoriolebirds/</guid>
+      <guid>http://localhost:1313/posts/thesnailandtheoriolebirds/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;theSnailAndTheOriolebirdsDemo720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_theSnailAndTheOriolebirdsDemo.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
     <item>
       <title>Brown Bear, Brown Bear, What do you see？</title>
-      <link>https://example.org/posts/brownbearbrownbearwhatdoyousee/</link>
+      <link>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</link>
       <pubDate>Sat, 24 Jun 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/brownbearbrownbearwhatdoyousee/</guid>
+      <guid>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;brownbear720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_brownbear.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
     <item>
       <title>数据采集-数据分析-数据可视化</title>
-      <link>https://example.org/posts/icons-data/</link>
+      <link>http://localhost:1313/posts/icons-data/</link>
       <pubDate>Mon, 10 Apr 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/icons-data/</guid>
+      <guid>http://localhost:1313/posts/icons-data/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-data_720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>ICONS作品精选</title>
-      <link>https://example.org/posts/icons/</link>
+      <link>http://localhost:1313/posts/icons/</link>
       <pubDate>Sun, 20 Feb 2022 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/icons/</guid>
+      <guid>http://localhost:1313/posts/icons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;terry.icons.png&#34; alt=&#34;icons&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微表情：黒熊熊</title>
-      <link>https://example.org/posts/hxx/</link>
+      <link>http://localhost:1313/posts/hxx/</link>
       <pubDate>Mon, 16 Sep 2019 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/hxx/</guid>
+      <guid>http://localhost:1313/posts/hxx/</guid>
       <description>嘿，熊样儿！&#xA;&lt;style&gt;&#xA;.stickers{ display: flex; flex-wrap: wrap; justify-content: space-between;}&#xA;.stickers img{ width: 24%;}&#xA;&lt;/style&gt;&#xA;&lt;img src=&#34;hxx-banner-scan.png&#34; width=&#34;100%&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;微信扫码使用表情 ↑&#xA;&lt;div class=&#34;stickers&#34;&gt;&#xA;&lt;img src=&#34;hxx-01.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-02.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-03.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-04.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-05.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-06.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-07.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-08.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-09.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-10.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-11.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-12.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-13.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-14.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-15.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-16.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

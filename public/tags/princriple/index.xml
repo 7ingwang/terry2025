@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Princriple on Terry.Wang</title>
-    <link>https://example.org/tags/princriple/</link>
+    <link>http://localhost:1313/tags/princriple/</link>
     <description>Recent content in Princriple on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 16 Sep 2019 15:58:10 +0600</lastBuildDate>
-    <atom:link href="https://example.org/tags/princriple/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/princriple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>微表情：黒熊熊</title>
-      <link>https://example.org/posts/hxx/</link>
+      <link>http://localhost:1313/posts/hxx/</link>
       <pubDate>Mon, 16 Sep 2019 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/hxx/</guid>
+      <guid>http://localhost:1313/posts/hxx/</guid>
       <description>嘿，熊样儿！&#xA;&lt;style&gt;&#xA;.stickers{ display: flex; flex-wrap: wrap; justify-content: space-between;}&#xA;.stickers img{ width: 24%;}&#xA;&lt;/style&gt;&#xA;&lt;img src=&#34;hxx-banner-scan.png&#34; width=&#34;100%&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;微信扫码使用表情 ↑&#xA;&lt;div class=&#34;stickers&#34;&gt;&#xA;&lt;img src=&#34;hxx-01.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-02.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-03.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-04.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-05.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-06.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-07.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-08.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-09.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-10.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-11.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-12.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-13.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-14.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-15.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;img src=&#34;hxx-16.gif&#34; alt=&#34;黑熊熊&#34;/&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

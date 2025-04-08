@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on Terry.Wang</title>
-    <link>https://example.org/tags/app/</link>
+    <link>http://localhost:1313/tags/app/</link>
     <description>Recent content in App on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 05 Nov 2014 15:58:10 +0600</lastBuildDate>
-    <atom:link href="https://example.org/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>极路由 HiWiFi App</title>
-      <link>https://example.org/posts/hiwifiapp/</link>
+      <link>http://localhost:1313/posts/hiwifiapp/</link>
       <pubDate>Wed, 05 Nov 2014 15:58:10 +0600</pubDate>
-      <guid>https://example.org/posts/hiwifiapp/</guid>
+      <guid>http://localhost:1313/posts/hiwifiapp/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;home.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;control_WiFi_channel.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;speed_test.png&#34; alt=&#34;HiWiFi App&#34;&gt;&#xA;&lt;img src=&#34;control_plugins.png&#34; alt=&#34;HiWiFi App&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

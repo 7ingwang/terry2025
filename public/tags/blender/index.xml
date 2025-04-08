@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blender on Terry.Wang</title>
-    <link>https://example.org/tags/blender/</link>
+    <link>http://localhost:1313/tags/blender/</link>
     <description>Recent content in Blender on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 11 Nov 2024 16:00:00 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web UI &#43; 3D APNG icons</title>
-      <link>https://example.org/posts/webui/</link>
+      <link>http://localhost:1313/posts/webui/</link>
       <pubDate>Mon, 11 Nov 2024 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/webui/</guid>
+      <guid>http://localhost:1313/posts/webui/</guid>
       <description>为某指挥控制系统设计的Web UI。这里说说页面上的3D APNG图标完成的方法，由于图标要求写实风格，用了blender完成图标建模，制作动画，渲染导出PNG序列图，最后用一个小工具APNGb压缩生成APNG图片，以便用于网页。&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-demo1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icon-guide.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-demo2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;img src=&#34;main-dock.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;page-12.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;chain.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;alert.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;page-6.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;login.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;webUI_v.png&#34; alt=&#34;Web UI&#34; /&gt;</description>
     </item>
     <item>
       <title>蜗牛与黄鹂鸟</title>
-      <link>https://example.org/posts/thesnailandtheoriolebirds/</link>
+      <link>http://localhost:1313/posts/thesnailandtheoriolebirds/</link>
       <pubDate>Thu, 10 Aug 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/thesnailandtheoriolebirds/</guid>
+      <guid>http://localhost:1313/posts/thesnailandtheoriolebirds/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;theSnailAndTheOriolebirdsDemo720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_theSnailAndTheOriolebirdsDemo.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
     <item>
       <title>Brown Bear, Brown Bear, What do you see？</title>
-      <link>https://example.org/posts/brownbearbrownbearwhatdoyousee/</link>
+      <link>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</link>
       <pubDate>Sat, 24 Jun 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/brownbearbrownbearwhatdoyousee/</guid>
+      <guid>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;brownbear720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_brownbear.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
     <item>
       <title>数据采集-数据分析-数据可视化</title>
-      <link>https://example.org/posts/icons-data/</link>
+      <link>http://localhost:1313/posts/icons-data/</link>
       <pubDate>Mon, 10 Apr 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/icons-data/</guid>
+      <guid>http://localhost:1313/posts/icons-data/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-data_720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
     </item>
     <item>
       <title>ICONS作品精选</title>
-      <link>https://example.org/posts/icons/</link>
+      <link>http://localhost:1313/posts/icons/</link>
       <pubDate>Sun, 20 Feb 2022 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/icons/</guid>
+      <guid>http://localhost:1313/posts/icons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;terry.icons.png&#34; alt=&#34;icons&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

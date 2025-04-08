@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Principle on Terry.Wang</title>
-    <link>https://example.org/tags/principle/</link>
+    <link>http://localhost:1313/tags/principle/</link>
     <description>Recent content in Principle on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 10 Aug 2020 16:00:00 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/principle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/principle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>钢铁水处理中心管网可视化监控大屏</title>
-      <link>https://example.org/posts/hh/</link>
+      <link>http://localhost:1313/posts/hh/</link>
       <pubDate>Mon, 10 Aug 2020 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/hh/</guid>
+      <guid>http://localhost:1313/posts/hh/</guid>
       <description>&lt;h3 id=&#34;原型&#34;&gt;原型&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_draft.png&#34; alt=&#34;原型&#34;&gt;&#xA;&lt;img src=&#34;HH_1080p.png&#34; alt=&#34;原型&#34;&gt;&#xA;&lt;img src=&#34;HH_HD_home_wireframe.png&#34; alt=&#34;原型&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ui&#34;&gt;UI&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_HD_home.png&#34; alt=&#34;UI&#34;&gt;&#xA;&lt;img src=&#34;HH_HD_chart_compare.png&#34; alt=&#34;UI&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;配色&#34;&gt;配色&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_Colors.png&#34; alt=&#34;配色&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;HH_HD_Icons.png&#34; alt=&#34;Icons&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

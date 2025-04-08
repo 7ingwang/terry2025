@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D on Terry.Wang</title>
-    <link>https://example.org/categories/3d/</link>
+    <link>http://localhost:1313/categories/3d/</link>
     <description>Recent content in 3D on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 10 Aug 2023 16:00:00 -0500</lastBuildDate>
-    <atom:link href="https://example.org/categories/3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>蜗牛与黄鹂鸟</title>
-      <link>https://example.org/posts/thesnailandtheoriolebirds/</link>
+      <link>http://localhost:1313/posts/thesnailandtheoriolebirds/</link>
       <pubDate>Thu, 10 Aug 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/thesnailandtheoriolebirds/</guid>
+      <guid>http://localhost:1313/posts/thesnailandtheoriolebirds/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;theSnailAndTheOriolebirdsDemo720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_theSnailAndTheOriolebirdsDemo.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
     <item>
       <title>Brown Bear, Brown Bear, What do you see？</title>
-      <link>https://example.org/posts/brownbearbrownbearwhatdoyousee/</link>
+      <link>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</link>
       <pubDate>Sat, 24 Jun 2023 16:00:00 -0500</pubDate>
-      <guid>https://example.org/posts/brownbearbrownbearwhatdoyousee/</guid>
+      <guid>http://localhost:1313/posts/brownbearbrownbearwhatdoyousee/</guid>
       <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;brownbear720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;blender动画练习作品&#xA;&lt;img src=&#34;scan_brownbear.png&#34; alt=&#34;扫一扫&#34; /&gt;</description>
     </item>
   </channel>
