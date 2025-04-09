@@ -1,7 +1,10 @@
 {{ with .Site.Data.header }}
   {{ if .enable }}
   	<h1 class="py-3"><a href="/" class="logo">{{ site.Title }}</a></h1>
+    <a class="position-absolute link" href="{{ .link1url }}" target="_blank" title="{{ .link1desc  }}">{{ .link1title }}</a>
   {{ end }}
 {{ end }}
+
+<!-- {{ partial "menu.html" (dict "menuID" "main" "page" .) }} -->
 
 

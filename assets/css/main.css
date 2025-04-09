@@ -1,6 +1,7 @@
 a { text-decoration: none; color: #333; }
 a:hover{ color: #666;}
 .site-header{ position: fixed; width: 100vw; z-index: 1; background: #fff;}
+.site-header .link{ top: 2.4rem; right: 1.6rem; font-weight: 100;}
 .site-main{ padding-top: 100px; min-height: 90vh;}
 .headline{ font-size: 3rem; font-weight: 100; text-align: center;}
 .content img, .content video { margin: 1rem 0; width: 100%; height: auto; border-radius: .3rem;}
@@ -17,7 +18,8 @@ a:hover{ color: #666;}
 /* .logo{ display: inline-block; width: 64px; height: 64px; text-indent: -1000vw; background: no-repeat center center; background-size: cover; border-radius: 32px;} */
 
 @media (max-width: 575.98px) { 
-.site-header, .site-footer{ text-align: center;}
-.headline{ font-size: 2rem;}
+.site-header .link{ top: 1.6rem;}
+.site-footer{ text-align: center;}
+.headline{ font-size: 1.5rem;}
 .card .card-img-top { height: 12rem;}
 }
