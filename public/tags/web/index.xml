@@ -16,6 +16,13 @@
       <description>为某指挥控制系统设计的Web UI。这里说说页面上的3D APNG图标完成的方法，由于图标要求写实风格，用了blender完成图标建模，制作动画，渲染导出PNG序列图，最后用一个小工具APNGb压缩生成APNG图片，以便用于网页。&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-demo1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icon-guide.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;icons-demo2.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&lt;img src=&#34;main-dock.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;page-12.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;chain.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;alert.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;page-6.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;login.png&#34; alt=&#34;Web UI&#34; /&gt;&#xA;&lt;img src=&#34;webUI_v.png&#34; alt=&#34;Web UI&#34; /&gt;</description>
     </item>
     <item>
+      <title>仿真平台UI</title>
+      <link>http://localhost:1313/posts/fz/</link>
+      <pubDate>Thu, 10 Oct 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fz/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;fzUI-main.png&#34; alt=&#34;仿真平台UI&#34;&gt;&#xA;&lt;img src=&#34;fzUI-form.png&#34; alt=&#34;仿真平台UI&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>GreatSQL社区原型设计</title>
       <link>http://localhost:1313/posts/greatsql.cn/</link>
       <pubDate>Sat, 08 Oct 2022 16:00:00 -0500</pubDate>

@@ -6,8 +6,50 @@
     <description>Recent content in 3D on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Aug 2023 16:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>笔记本电脑建模</title>
+      <link>http://localhost:1313/posts/laptop/</link>
+      <pubDate>Wed, 30 Oct 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/laptop/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;laptop.png&#34; alt=&#34;3D&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MR眼镜</title>
+      <link>http://localhost:1313/posts/cm3/</link>
+      <pubDate>Mon, 28 Oct 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cm3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;CM3POST.png&#34; alt=&#34;3D&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MR眼镜与电子沙盘3D演示</title>
+      <link>http://localhost:1313/posts/mr/</link>
+      <pubDate>Mon, 28 Oct 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/mr/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;mr.png&#34; alt=&#34;3D&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>卫星解体动画</title>
+      <link>http://localhost:1313/posts/wx/</link>
+      <pubDate>Wed, 09 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/wx/</guid>
+      <description>&lt;img src=&#34;wx.png&#34; alt=&#34;卫星建模&#34; /&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;wxjt.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>太阳翼动画</title>
+      <link>http://localhost:1313/posts/tyy/</link>
+      <pubDate>Wed, 09 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/tyy/</guid>
+      <description>&lt;img src=&#34;tyy.png&#34; alt=&#34;太阳翼动画&#34; /&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;tyy.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>导弹，火焰</title>
+      <link>http://localhost:1313/posts/dd/</link>
+      <pubDate>Mon, 07 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/dd/</guid>
+      <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;dd.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
     <item>
       <title>蜗牛与黄鹂鸟</title>
       <link>http://localhost:1313/posts/thesnailandtheoriolebirds/</link>

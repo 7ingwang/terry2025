@@ -6,8 +6,29 @@
     <description>Recent content in 动画 on Terry.Wang</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Oct 2024 15:58:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:58:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E5%8A%A8%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>卫星解体动画</title>
+      <link>http://localhost:1313/posts/wx/</link>
+      <pubDate>Wed, 09 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/wx/</guid>
+      <description>&lt;img src=&#34;wx.png&#34; alt=&#34;卫星建模&#34; /&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;wxjt.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>太阳翼动画</title>
+      <link>http://localhost:1313/posts/tyy/</link>
+      <pubDate>Wed, 09 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/tyy/</guid>
+      <description>&lt;img src=&#34;tyy.png&#34; alt=&#34;太阳翼动画&#34; /&gt;&#xA;&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;tyy.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
+    <item>
+      <title>导弹，火焰</title>
+      <link>http://localhost:1313/posts/dd/</link>
+      <pubDate>Mon, 07 Oct 2024 15:58:10 +0600</pubDate>
+      <guid>http://localhost:1313/posts/dd/</guid>
+      <description>&lt;video controls autoplay&gt;&#xA;  &lt;source src=&#34;dd.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+    </item>
     <item>
       <title>Maya角色表演动画练习二</title>
       <link>http://localhost:1313/posts/mayaargusbig/</link>
